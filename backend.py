@@ -1,3 +1,4 @@
+#!/usr/bin/python
 banddict={0:'Black',1:'Brown',2:'Red',3:'Orange',4:'Yellow',5:'Green',6:'Blue',7:'Violet',8:'Gray',9:'White'}
 global q,r,n,band1,band2,band3,man
 print 'Enter the value of resistor '
